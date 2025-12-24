@@ -1,0 +1,5 @@
+{
+  "name": "ChessMater",
+  "description": "Uma plataforma avançada de xadrez com análise Stockfish em tempo real e um Mentor IA integrado para fornecer orientações estratégicas e táticas em português.",
+  "requestFramePermissions": []
+}
