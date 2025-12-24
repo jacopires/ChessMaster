@@ -8,6 +8,8 @@ export interface AnalysisResult {
 export interface MentorAdvice {
   text: string;
   bestMoveSan: string;
+  fromSquare?: string;
+  toSquare?: string;
   strategicExplanation: string;
   isCheckmateSequence: boolean;
 }
